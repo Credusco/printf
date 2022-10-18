@@ -26,5 +26,5 @@ void init_params(params_t *params, va_list ap)
 }
 
 /**
- * 1-digit.c - digit.c project
+ *1-digit.c - digit.c project
  */
