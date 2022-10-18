@@ -130,3 +130,7 @@ int print_S(va_list ap, params_t *params)
 	}
 	return (sum);
 }
+
+/**
+ * 3-printf.c - printf.c project
+ */
