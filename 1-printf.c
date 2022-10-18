@@ -49,3 +49,7 @@ int _printf(const char *format, ...)
 	va_end(ap);
 	return (sum);
 }
+
+/**
+ * 1-printf.c - printf.c project
+ */
